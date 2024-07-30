@@ -1,0 +1,32 @@
+css
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #02254b;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+section {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+}
